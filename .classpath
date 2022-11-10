@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/detile/PartyWork.java" kind="src" path="src">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/jasperreports-3.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/jasperreports-fonts-3.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/javax.mail.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/synthetica.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaBlackStar.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaBlueIce.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaGreenDream.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaSimple2D.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaSkyMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/pixie,synthetica,500 colure pdf/synthetica/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA Swing/Java S/jasper/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
